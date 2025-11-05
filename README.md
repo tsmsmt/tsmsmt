@@ -1,4 +1,4 @@
-<h2 align="left">Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/>, I'm Taha (aka <span style="color:#1F0B22">tsmsmt</span>)</h2>
+<h2 align="left">Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"/>, I'm Taha (aka <span style="color:#1F0B22">tsmsmt</span>)</h2>
 
 💻 Full-stack developer & cybersecurity enthusiast  
 ⚙️ Focused on building clean, scalable, and secure systems  
@@ -7,7 +7,7 @@
 
 ###
 
-<img style="position: absolute;" align="right" height="150" src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" alt="matrix" />
+<img pos align="right" height="150" src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" alt="matrix" />
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo" />
