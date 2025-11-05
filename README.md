@@ -1,4 +1,4 @@
-<h2 align="left">Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"/>, I'm Taha (aka <span color:#1F0B22>tsmsmt</span>)</h2>
+<h2 align="left">Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"/>, I'm Taha (aka tsmsmt)</h2>
 
 💻 Full-stack developer & cybersecurity enthusiast  
 ⚙️ Focused on building clean, scalable, and secure systems  
