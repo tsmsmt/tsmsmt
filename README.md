@@ -3,18 +3,17 @@
 💻 Full-stack developer & cybersecurity enthusiast  
 ⚙️ Focused on building clean, scalable, and secure systems  
 🧠 Always learning — always shipping   
-🎡 Chat-gpt | Gemini | Claude | Deepseek & some others. these're my stacks🧾
+🎡 Chat-gpt | Gemini | Claude | Deepseek & some others. these're my stacks
 
 ###
 
-<img align="right" height="150" src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" alt="matrix" />
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="js logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="js logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="nodejs logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo" />
   <img width="12" />
@@ -30,12 +29,14 @@
 
 ###
 
+<img align="right" height="150" src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" alt="matrix" />
+
 <div align="left">
   <a href="mailto:tsmforlike@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Mail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="35" alt="gmail logo" />
   </a>
-  <a href="https://github.com/tsmsmt" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&style=for-the-badge" height="35" alt="github logo" />
+  <a href="https://t.me/tsmsmt" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=telegram&logo=telegram&label=&color=#552d83&logoColor=white&style=for-the-badge" height="35" alt="telegram logo" />
   </a>
 </div>
 
