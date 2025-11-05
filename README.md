@@ -1,9 +1,9 @@
-<h2 align="left">Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"/>, I'm Taha (aka <span style="color:#1F0B22">tsmsmt</span>)</h2>
+<h2 align="left">Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/>, I'm Taha (aka <span style="color:#1F0B22">tsmsmt</span>)</h2>
 
 💻 Full-stack developer & cybersecurity enthusiast  
 ⚙️ Focused on building clean, scalable, and secure systems  
-🧠 Always learning — always shipping  
-🎯 JavaScript | Node.js | React | Next.js | MongoDB | Linux
+🧠 Always learning — always shipping   
+🎡 Chat-gpt | Gemini | Claude | Deepseek & some others. these're my stacks🧾
 
 ###
 
