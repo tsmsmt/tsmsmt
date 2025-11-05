@@ -1,7 +1,7 @@
-<h2 align="left">Hey&nbsp;<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"/>, I'm Tsm (aka <span style="color:#ff5555">tsmsmt</span>)</h2>
+<h2 align="left">Hey&nbsp;<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"/>, I'm Tsm (aka tsmsmt)</h2>
 
-📚 Currently exploring: <b>Reverse engineering</b> & <b>Low-level systems</b>  <img align="right" height="120" style="margin-left:12px" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3Vvb3FyaG81ZDFkenlrdXE0YXVrbGh6aHU3M2pqcGRsb3drdWpxeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/P8ef3Dkynk0xLx1h1T/giphy.gif" alt="matrix" /> <br/>
-💻 Full-stack developer & cybersecurity enthusiast  
+📚 Currently exploring: <b>Reverse engineering</b> & <b>Low-level systems</b>  <img align="right" height="120" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3Vvb3FyaG81ZDFkenlrdXE0YXVrbGh6aHU3M2pqcGRsb3drdWpxeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/P8ef3Dkynk0xLx1h1T/giphy.gif" alt="matrix" /> <br/>
+💻 <span style="color:#ff5555">Full-stack developer</span> & <span style="color:#8be9fd">cybersecurity enthusiast</span>
 ⚙️ Focused on building clean, scalable, and secure systems  
 🧠 Always learning — Always failing  
 🎡 Chat-gpt | Gemini | Claude | Deepseek & some others. these're my stacks
