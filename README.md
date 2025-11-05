@@ -1,7 +1,6 @@
 <h2 align="left">Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"/>, I'm Taha (aka tsmsmt)</h2>
 
-💻 Full-stack developer & cybersecurity enthusiast  <img align="right" height="120" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3Vvb3FyaG81ZDFkenlrdXE0YXVrbGh6aHU3M2pqcGRsb3drdWpxeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/P8ef3Dkynk0xLx1h1T/giphy.gif" alt="matrix" />
-
+💻 Full-stack developer & cybersecurity enthusiast  <img align="right" height="120" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3Vvb3FyaG81ZDFkenlrdXE0YXVrbGh6aHU3M2pqcGRsb3drdWpxeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/P8ef3Dkynk0xLx1h1T/giphy.gif" alt="matrix" /> <br/>
 ⚙️ Focused on building clean, scalable, and secure systems  
 🧠 Always learning — always failing  
 🎡 Chat-gpt | Gemini | Claude | Deepseek & some others. these're my stacks
