@@ -1,8 +1,8 @@
-<h2 align="left">Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"/>, I'm Taha (aka tsmsmt)</h2>
+<h2 align="left">Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"/>, I'm Tsm (aka tsmsmt)</h2>
 
 💻 Full-stack developer & cybersecurity enthusiast  <img align="right" height="120" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3Vvb3FyaG81ZDFkenlrdXE0YXVrbGh6aHU3M2pqcGRsb3drdWpxeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/P8ef3Dkynk0xLx1h1T/giphy.gif" alt="matrix" /> <br/>
 ⚙️ Focused on building clean, scalable, and secure systems  
-🧠 Always learning — always failing  
+🧠 Always learning — Always failing  
 🎡 Chat-gpt | Gemini | Claude | Deepseek & some others. these're my stacks
 
 ###
@@ -32,6 +32,12 @@
   <a href="mailto:tsmforlike@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Mail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="35" alt="gmail logo" />
   </a>
+</div>
+
+###
+
+<div align="center">
+  <h3>That's all</h3>
 </div>
 
 ###
