@@ -7,6 +7,7 @@
 
 ###
 
+<img style="position: absolute;" align="right" height="150" src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" alt="matrix" />
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo" />
@@ -29,14 +30,9 @@
 
 ###
 
-<img align="right" height="150" src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" alt="matrix" />
-
 <div align="left">
   <a href="mailto:tsmforlike@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Mail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="35" alt="gmail logo" />
-  </a>
-  <a href="https://t.me/tsmsmt" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=telegram&logo=telegram&label=&color=#552d83&logoColor=white&style=for-the-badge" height="35" alt="telegram logo" />
   </a>
 </div>
 
