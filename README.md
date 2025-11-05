@@ -1,4 +1,4 @@
-<h2 align="left">Hey 👋, I'm Taha (aka tsmsmt)</h2>
+<h2 align="left">Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="10"/>, I'm Taha (aka tsmsmt)</h2>
 
 💻 Full-stack developer & cybersecurity enthusiast  
 ⚙️ Focused on building clean, scalable, and secure systems  
@@ -33,7 +33,7 @@
 ###
 
 <div align="left">
-  <a href="mailto:example@gmail.com" target="_blank">
+  <a href="mailto:tsmforlike@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Mail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="35" alt="gmail logo" />
   </a>
   <a href="https://github.com/tsmsmt" target="_blank">
