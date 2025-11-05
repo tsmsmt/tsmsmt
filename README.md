@@ -7,7 +7,7 @@
 
 ###
 
-<img pos align="right" height="150" src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" alt="matrix" />
+<img align="right" height="120" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3Vvb3FyaG81ZDFkenlrdXE0YXVrbGh6aHU3M2pqcGRsb3drdWpxeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/P8ef3Dkynk0xLx1h1T/giphy.gif" alt="matrix" />
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo" />
