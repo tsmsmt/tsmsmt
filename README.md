@@ -1,37 +1,44 @@
-<h1 align="center">👋 Hey there, I'm <span style="color:#ff4747">tsmsmt</span></h1>
+<h2 align="left">Hey 👋, I'm Taha (aka tsmsmt)</h2>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="80"/>
-</p>
+💻 Full-stack developer & cybersecurity enthusiast  
+⚙️ Focused on building clean, scalable, and secure systems  
+🧠 Always learning — always shipping  
+🎯 JavaScript | Node.js | React | Next.js | MongoDB | Linux
 
-<p align="center">
-  💻 Developer | 🧠 Thinker | ⚙️ Builder
-</p>
+###
 
-<p align="center">
-  <a href="https://github.com/tsmsmt">
-    <img src="https://komarev.com/ghpvc/?username=tsmsmt&label=Profile%20Views&color=ff4747&style=flat-square" alt="views" />
+<img align="right" height="150" src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" alt="matrix" />
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="js logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo" />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tsmsmt&show_icons=true&theme=dracula&hide_border=false&count_private=true" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tsmsmt&layout=compact&theme=dracula&hide_border=false" height="150" alt="languages graph" />
+</div>
+
+###
+
+<div align="left">
+  <a href="mailto:example@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Mail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="35" alt="gmail logo" />
   </a>
-  <a href="https://github.com/tsmsmt?tab=followers">
-    <img src="https://img.shields.io/github/followers/tsmsmt?label=Followers&style=flat-square&color=0a0a0a" alt="followers"/>
+  <a href="https://github.com/tsmsmt" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&style=for-the-badge" height="35" alt="github logo" />
   </a>
-</p>
+</div>
 
----
-⚡ Tech Arsenal
-<p align="center"> <img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,nextjs,express,mongodb,linux,git,html,css,tailwind,vscode" /> </p>
-
-📊 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=tsmsmt&show_icons=true&theme=radical&hide_border=true" width="48%" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=tsmsmt&theme=radical&hide_border=true" width="48%" /> </p>
-
-🌀 Current Status
-<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=tsmsmt&bg_color=0f0f0f&color=ff4747&line=ff4747&point=ffffff&hide_border=true" /> </p>
-<p align="center"> <img src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" width="180" alt="matrix-code"/> </p> <h3 align="center">🚀 "There’s no limit — just the next version."</h3>
-
-### 🧭 About Me
-
-```yaml
-Name: Taha (aka tsmsmt)
-Focus: Full-Stack Development & CyberSecurity
-Current Stack: JavaScript | Node.js | React | Next.js | MongoDB
-Mindset: "Build. Break. Learn. Repeat."
+###
